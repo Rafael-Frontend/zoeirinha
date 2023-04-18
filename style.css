@@ -27,6 +27,7 @@ main {
   writing-mode: vertical-rl;
   text-orientation: upbottom;
   border-radius: 20px;
+  border: none;
   position: absolute;
   z-index: 5;
   top: 60%;
